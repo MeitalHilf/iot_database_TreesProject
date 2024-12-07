@@ -1,0 +1,6 @@
+USE mydb;
+SHOW DATABASES;
+USE mydb;
+SHOW TABLES;
+DESCRIBE table_name;
+DESCRIBE Plants;
